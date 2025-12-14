@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vicas\\Universidad\\UDLA\\7mo_Semestre\\webIng\\Taller_DesignPatterns\\Best-Practices-Udla-Workshop\\BestPractices\\Best Practices.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vicas\\Universidad\\UDLA\\7mo_Semestre\\webIng\\Taller_DesignPatterns\\Best-Practices-Udla-Workshop\\BestPractices\\Best Practices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vicas\\Universidad\\UDLA\\7mo_Semestre\\webIng\\Taller_DesignPatterns\\Best-Practices-Udla-Workshop\\BestPractices\\Best Practices.csproj",
+        "projectName": "Best Practices",
+        "projectPath": "C:\\Users\\vicas\\Universidad\\UDLA\\7mo_Semestre\\webIng\\Taller_DesignPatterns\\Best-Practices-Udla-Workshop\\BestPractices\\Best Practices.csproj",
+        "packagesPath": "C:\\Users\\vicas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vicas\\Universidad\\UDLA\\7mo_Semestre\\webIng\\Taller_DesignPatterns\\Best-Practices-Udla-Workshop\\BestPractices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vicas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

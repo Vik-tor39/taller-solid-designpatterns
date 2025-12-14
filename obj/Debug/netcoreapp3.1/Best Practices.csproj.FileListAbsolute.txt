@@ -1,0 +1,40 @@
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\bin\Debug\netcoreapp3.1\Best Practices.exe
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\bin\Debug\netcoreapp3.1\Best Practices.deps.json
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\bin\Debug\netcoreapp3.1\Best Practices.runtimeconfig.json
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\bin\Debug\netcoreapp3.1\Best Practices.runtimeconfig.dev.json
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\bin\Debug\netcoreapp3.1\Best Practices.dll
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\bin\Debug\netcoreapp3.1\Best Practices.pdb
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\bin\Debug\netcoreapp3.1\Best Practices.Views.dll
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\bin\Debug\netcoreapp3.1\Best Practices.Views.pdb
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.AssemblyInfoInputs.cache
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.AssemblyInfo.cs
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.csproj.CoreCompileInputs.cache
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.RazorAssemblyInfo.cache
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.RazorAssemblyInfo.cs
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.TagHelpers.input.cache
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.TagHelpers.output.cache
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.RazorCoreGenerate.cache
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.RazorTargetAssemblyInfo.cache
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.RazorTargetAssemblyInfo.cs
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.Views.pdb
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\staticwebassets\Best Practices.StaticWebAssets.Manifest.cache
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\staticwebassets\Best Practices.StaticWebAssets.Pack.cache
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Best Practices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Best Practices.props
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Best Practices.props
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Best Practices.props
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.dll
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.pdb
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.genruntimeconfig.cache
+C:\Users\vicas\Universidad\UDLA\7mo_Semestre\webIng\Taller_DesignPatterns\Best-Practices-Udla-Workshop\BestPractices\obj\Debug\netcoreapp3.1\Best Pra.5E0A3705.Up2Date

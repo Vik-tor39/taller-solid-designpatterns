@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qcWoFOwH31Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vicas\\Universidad\\UDLA\\7mo_Semestre\\webIng\\Taller_DesignPatterns\\Best-Practices-Udla-Workshop\\BestPractices\\Best Practices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vicas\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vicas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vicas\\.nuget\\packages"
+    ]
+  }
+}
